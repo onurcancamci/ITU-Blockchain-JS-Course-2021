@@ -1,7 +1,7 @@
-let a = 50;
-let b = 50;
+let a = 5;
+let b = 2;
 
-if (!(a < b)) {
+if (a < b) {
   console.log("a < b");
 } else if (a > b) {
   console.log("a > b");
